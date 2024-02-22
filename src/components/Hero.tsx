@@ -2,10 +2,7 @@ export default function Hero() {
     return (
         <section className="bg-darkViolet relative sm:py-20 xl:py-0">
 
-            <img src="/images/assets/bg-pattern-intro-left-desktop.svg" className="hidden sm:block absolute lg:translate-y-96 left-0 z-0 translate-y-28" />
-
-            {/* FIXME: remove this div, it's not essential. keep its content directly in the main section. */}
-            {/* TODO: correct the viewport at which the text is aligned to the left. */}
+            <img src="/images/assets/bg-pattern-intro-left-desktop.svg" className="hidden sm:block absolute lg:translate-y-[480px] left-0 z-0 translate-y-28" />
 
             <div className="container mx-auto flex flex-col justify-between items-center xl:gap-6 xl:px-0  xl:order-1 xl:flex-row">
 
