@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [source code](https://github.com/mondirhallouli/insure-lp-fem)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live project](https://insure-lp-fem.pages.dev/)
 
 ## My process
 
